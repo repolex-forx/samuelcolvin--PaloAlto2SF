@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "PaloAlto2SF",
+  "versions": [
+    {
+      "commit": "98124cdbed195a237d1a1924dc7992d39f125538",
+      "parsed_at": "2026-10-11T07:49:44.454286+00:00",
+      "filetree": "filetree/98124cdbed195a237d1a1924dc7992d39f125538.nq.gz",
+      "blobs": [
+        "blob/cac4dfc51cea23455947e668891a04cb68eec941.nq.gz",
+        "blob/d5938407ab7c30d5922619be8bda8ed32f2fdefe.nq.gz",
+        "blob/22a63b3a13b14fd3eb6f10c33444e82f5524a4f0.nq.gz",
+        "blob/e0e5162fbbc0186e20bc21b20953ce5998954b60.nq.gz",
+        "blob/da3c5f28aa1d34def0e5604db01400ee8970b501.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
